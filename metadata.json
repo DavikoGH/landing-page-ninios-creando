@@ -1,0 +1,6 @@
+{
+  "name": "Landing Page Cursos",
+  "description": "Landing Page para venta de cursos tecnológicos para niños en Santa Cruz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
